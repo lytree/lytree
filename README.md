@@ -5,6 +5,9 @@
 <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&theme=radical" /> 
 </div>
 
+<p align="center">
+<a href="http://prideyang.top/">个人首页</a> | <a href="http://blog.prideyang.top/">日常</a> | <a href="http://doc.prideyang.top/">个人文档</a> | <a href="http://nav.prideyang.top/">网址导航</a> |
+</p>
 
 
 <p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lytree&theme=github-compact&hide_border=true&area=true" /> </p>
