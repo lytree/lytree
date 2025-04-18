@@ -3,10 +3,10 @@
 </p>
 <p>
 <p>
-<p align="center"> <img height="137px" width="100%" src="https://github-readme-stats.vercel.app/api?username=lytree&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </p>
-
-
-<p align="center"> <img  width="100%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&theme=radical" /> </p>
+<p align="center"> 
+<img height="137px" width="50%"  src="https://github-readme-stats.vercel.app/api?username=lytree&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+<img  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&theme=radical" /> 
+</p>
 
 
 
