@@ -3,7 +3,7 @@
 </p>
 <p>
 <p>
-<p align="center"> 
+<p> 
 <img height="137px" width="50%"  src="https://github-readme-stats.vercel.app/api?username=lytree&show_icons=true&theme=tokyonight&line_height=27" /> 
 <img height="137px"  width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&theme=radical" /> 
 </p>
