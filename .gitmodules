@@ -7,3 +7,6 @@
 [submodule "nav"]
 	path = nav
 	url = https://github.com/lytree/nav.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/lytree/blog
