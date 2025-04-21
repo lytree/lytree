@@ -6,11 +6,12 @@
 <a href="http://prideyang.top/">个人首页</a> | <a href="http://blog.prideyang.top/">日常</a> | <a href="http://doc.prideyang.top/">个人文档</a> | <a href="http://nav.prideyang.top/">网址导航</a> |
 </p>
 
-
-<p align = "center" > 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&theme=radical" /> 
-</div>
-
+<br />
+<br />
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=lytree&show_icons=true&theme=synthwave" alt="lytree :: Profile Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&langs_count=10&theme=synthwave&layout=compact" alt="lytree :: Top Langs" />
+</p>
 
 
 
