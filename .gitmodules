@@ -7,3 +7,6 @@
 [submodule "blog"]
 	path = blog
 	url = https://github.com/lytree/blog
+[submodule "exam"]
+	path = exam
+	url = https://github.com/lytree/exam.git
