@@ -8,11 +8,6 @@
 
 <br />
 <br />
-<p align="left">
-  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=lytree&show_icons=true&theme=synthwave" alt="lytree :: Profile Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lytree&langs_count=10&theme=synthwave&layout=compact" alt="lytree :: Top Langs" />
-</p>
-
 
 
 <p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lytree&theme=github-compact&hide_border=true&area=true" /> </p>
