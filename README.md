@@ -8,7 +8,7 @@
 
 <br />
 <br />
-<p align="left">
+<p align="center">
 <img heigth="195" src="./profile/stats.svg" alt="lytree :: Profile Stats" />
 <img height="195" src="./profile/top-langs.svg" alt="lytree :: Top Langs" />
 </p>
