@@ -8,10 +8,10 @@
 
 <br />
 <br />
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
+<p align="left">
+<img heigth="195" src="./profile/stats.svg" alt="lytree :: Profile Stats" />
+<img height="195" src="./profile/top-langs.svg" alt="lytree :: Top Langs" />
+</p>
 <p align="center"> <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=lytree&theme=github-compact&hide_border=true&area=true" /> </p>
 
 
