@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="http://prideyang.top/">个人首页</a> | <a href="http://blog.prideyang.top/">日常</a> | <a href="http://doc.prideyang.top/">个人文档</a> 
+<a href="http://prideyang.top/">个人首页</a> | <a href="http://blog.prideyang.top/">日常</a> | <a href="http://doc.prideyang.top/">个人文档</a> | <a href="http://nav.prideyang.top/">网址导航</a> |
 </p>
 
 <br />
