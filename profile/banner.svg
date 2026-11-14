@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-label="lytree · 杨 ◦ 柳">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#090D18"/>
+      <stop offset="0.55" stop-color="#111629"/>
+      <stop offset="1" stop-color="#1A1030"/>
+    </linearGradient>
+    <linearGradient id="titleFill" x1="72" y1="140" x2="310" y2="170" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.45" stop-color="#D8CCFF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <radialGradient id="glowV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.1" fill="#FFFFFF" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="0.5" y="0.5" width="1199" height="359" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="28" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.08"/>
+
+  <g clip-path="url(#card)">
+    <rect x="0" y="0" width="1200" height="360" fill="url(#dots)"/>
+    <circle cx="1010" cy="-60" r="430" fill="url(#glowV)"/>
+    <circle cx="90" cy="420" r="400" fill="url(#glowC)"/>
+
+    <!-- left -->
+    <rect x="72" y="64" width="212" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <circle cx="90" cy="79" r="3.5" fill="#22D3EE"/>
+    <text x="102" y="83.5" font-family="'Inter','Segoe UI',system-ui,-apple-system,'PingFang SC','Microsoft YaHei',sans-serif" font-size="11" font-weight="600" letter-spacing="2.2" fill="#A5B4FC">PERSONAL · WEB</text>
+
+    <text x="70" y="184" font-family="'Inter','Segoe UI',system-ui,-apple-system,sans-serif" font-size="80" font-weight="800" letter-spacing="-2" fill="url(#titleFill)">lytree</text>
+
+    <text x="74" y="222" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',system-ui,sans-serif" font-size="24" font-weight="500" letter-spacing="8" fill="#CBD5E1">杨 ◦ 柳</text>
+
+    <text x="75" y="258" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',system-ui,sans-serif" font-size="15" font-weight="400" letter-spacing="0.6" fill="#8CA0BB">把代码、笔记与生活，安放在自己的域名下。</text>
+
+    <rect x="72" y="280" width="382" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.04" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="92" y="299.5" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="11.5" letter-spacing="0.8" fill="#93A4BC">Vue 3 · TypeScript · .NET · Java · Hexo</text>
+
+    <!-- divider -->
+    <rect x="712" y="60" width="1" height="240" fill="#FFFFFF" fill-opacity="0.07"/>
+
+    <!-- cards -->
+    <rect x="756" y="52" width="372" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <circle cx="790" cy="72" r="4.5" fill="#818CF8"/>
+    <text x="806" y="77" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">prideyang.top</text>
+    <text x="807" y="103" font-family="'PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="12" fill="#8496AE">个人主页 · Vue 3 Vapor + JSX</text>
+    <text x="1092" y="98" font-family="system-ui,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.22">→</text>
+
+    <rect x="756" y="144" width="372" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <circle cx="790" cy="164" r="4.5" fill="#22D3EE"/>
+    <text x="806" y="169" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">blog.prideyang.top</text>
+    <text x="807" y="195" font-family="'PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="12" fill="#8496AE">日常随笔 · Hexo 8 + Butterfly 5</text>
+    <text x="1092" y="190" font-family="system-ui,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.22">→</text>
+
+    <rect x="756" y="236" width="372" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <circle cx="790" cy="256" r="4.5" fill="#F472B6"/>
+    <text x="806" y="261" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">doc.prideyang.top</text>
+    <text x="807" y="287" font-family="'PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="12" fill="#8496AE">个人文档 · Vue 3 + TSX 版 Fumadocs</text>
+    <text x="1092" y="282" font-family="system-ui,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.22">→</text>
+  </g>
+</svg>
