@@ -1,6 +1,6 @@
 [submodule "home"]
 	path = home
-	url = https://github.com/lytree/home.git
+	url = https://github.com/lytree/index.git
 [submodule "docs"]
 	path = docs
 	url = https://github.com/lytree/docs.git
