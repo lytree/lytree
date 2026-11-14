@@ -53,19 +53,19 @@
     <!-- cards -->
     <rect x="756" y="52" width="372" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
     <circle cx="790" cy="72" r="4.5" fill="#818CF8"/>
-    <text x="806" y="77" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">prideyang.top</text>
+    <text x="806" y="77" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">lytree.top</text>
     <text x="807" y="103" font-family="'PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="12" fill="#8496AE">个人主页 · Vue 3 Vapor + JSX</text>
     <text x="1092" y="98" font-family="system-ui,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.22">→</text>
 
     <rect x="756" y="144" width="372" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
     <circle cx="790" cy="164" r="4.5" fill="#22D3EE"/>
-    <text x="806" y="169" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">blog.prideyang.top</text>
+    <text x="806" y="169" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">blog.lytree.top</text>
     <text x="807" y="195" font-family="'PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="12" fill="#8496AE">日常随笔 · Hexo 8 + Butterfly 5</text>
     <text x="1092" y="190" font-family="system-ui,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.22">→</text>
 
     <rect x="756" y="236" width="372" height="80" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.1"/>
     <circle cx="790" cy="256" r="4.5" fill="#F472B6"/>
-    <text x="806" y="261" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">doc.prideyang.top</text>
+    <text x="806" y="261" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,monospace" font-size="14.5" font-weight="600" fill="#E8EDF5">doc.lytree.top</text>
     <text x="807" y="287" font-family="'PingFang SC','Microsoft YaHei',system-ui,sans-serif" font-size="12" fill="#8496AE">个人文档 · Vue 3 + TSX 版 Fumadocs</text>
     <text x="1092" y="282" font-family="system-ui,sans-serif" font-size="15" fill="#FFFFFF" fill-opacity="0.22">→</text>
   </g>
